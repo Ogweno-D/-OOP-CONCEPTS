@@ -19,6 +19,7 @@ class Student{
 
         }
 
+	//This is the constructor of the Student class.
 
     Student(string name ,string courseName,int regNo, int age){
         Name= name;
